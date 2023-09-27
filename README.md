@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @joanportas
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning cybersecurity
+- 🌱 I’m currently learning cybersecurity in Institut Montilivi
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me ...
+
 
 <!---
 joanportas/joanportas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
