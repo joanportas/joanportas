@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joanportas
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning cybersecurity in Institut Montilivi
-- 💞️ I’m looking to collaborate on interesting projects
+
 
 
 <!---
